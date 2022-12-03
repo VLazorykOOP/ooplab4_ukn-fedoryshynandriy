@@ -142,10 +142,7 @@
     <ClCompile Include="Lab4Exmaple.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ComplexMatrix.h" />
-    <ClInclude Include="ComplexVector.h" />
     <ClInclude Include="Lab4Exmaple.h" />
-    <ClInclude Include="MyAssoc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
