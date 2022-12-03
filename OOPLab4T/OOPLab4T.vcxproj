@@ -139,11 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ComplexMatrix.cpp" />
-    <ClCompile Include="ComplexVector.cpp" />
     <ClCompile Include="Lab4Exmaple.cpp" />
-    <ClCompile Include="MyAssoc.cpp" />
-    <ClCompile Include="OOPLab4T.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ComplexMatrix.h" />
