@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 //***                    Перше завдання
+//
 using namespace std;
 enum STATE {
 	OK, BAD_INIT, BAD_DIV
